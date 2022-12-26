@@ -1,9 +1,32 @@
 # Codium-Crypter-4.0.0.0-Fully-Undetected-FUD-2023
 Old Features Back Like Pumper Etc, New Features Added Stealer.
 
-New Feature Stealer, Extracting All Paswords, Email Clients, Ftps
-Supporting More Than 200+ browsers, mail clients, ftp softwares.
+[ Codium Security Protect/Obfuscate Your Files Today ]
 
+-TaskSch Startup [ powerfull and stealth ]
+-Anti Memory Scan
+-HideFile After Execution .exe
+-SleepDelay After Execution
+-FakeMessage
+-LoadVersion Editor
+-Kill Any Task From Task Maanger
+-Anti Virtual Machine
+-Private Junk Code
+-Private Obfuscator
+-Injection into another process [  RegAsm, RegSvcs, MSBuild, Notepad, Calc And More ]
+-ETW Patch
+-AMSI Patch
+-Compatible With All  .exe files .NET / Native
+-Pumper [ Pump Your Files However you want, 5 mb to 100 mb ]
+-Digital Signature Cloner
+-Change Icon Of Your File
+-Randomize Stub Fully
+-Assembly Changer Cloner
+-Private Password Stealer [ Sends Data To Your FTP ]
+-Check For Updates
+
+
+-SILENT PDF EXPLOITS 0day
 Scan Results : https://avcheck.net/id/WonIb1Nq5j3R
 
 VIDEO ShowCase : https://streamable.com/z5w2cd
