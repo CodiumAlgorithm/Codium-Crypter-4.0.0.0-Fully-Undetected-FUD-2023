@@ -24,10 +24,11 @@ Old Features Back Like Pumper Etc, New Features Added Stealer.
 -Assembly Changer Cloner
 -Private Password Stealer [ Sends Data To Your FTP ]
 -Check For Updates
-
-
 -SILENT PDF EXPLOITS 0day
-Scan Results : https://avcheck.net/id/WonIb1Nq5j3R
+
+
+
+exe Scan Results : https://avcheck.net/id/WonIb1Nq5j3R
 
 VIDEO ShowCase : https://streamable.com/z5w2cd
 
